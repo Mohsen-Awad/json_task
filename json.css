@@ -32,9 +32,9 @@ body{
     width: 400px;  
 }
 
-/* .card-item h3, p{
+.card-item h3, p{
     margin-left: 10px;
-} */
+}
 
 .btn{
     background-color: rgb(37, 199, 240);
